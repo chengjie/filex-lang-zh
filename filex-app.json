@@ -1,7 +1,7 @@
 {
   "manifest_version": 1,
   "name": "filexnas-lang-zh",
-  "version": "1.5.2",
+  "version": "0.1.0",
   "label": {
     "en": "Simplified Chinese language pack",
     "zh": "简体中文语言包"
@@ -4951,6 +4951,7 @@
       "server.perm.schedule": "每小时自动唤醒一次，并在自行选定的分钟无人值守地执行工作（仅执行自身操作，且仅使用上述权限）",
       "server.perm.settings": "读取管理员为其填写的设置",
       "server.perm.sign": "使用此服务器的签名密钥签署文档（密钥不会离开服务器）",
+      "server.perm.activity_read": "读取当前登录用户有权访问的近期文件上传和修改动态及操作人",
       "server.perm.state": "为每个文件保留少量状态记录",
       "server.perm.thumbnail": "为 {kind} 文件生成缩略图：filex 为任何存储中的此类型文件生成缩略图时，会逐个将文件字节交给它",
       "server.perm.ui": "在 filex 控制的沙箱内，通过你的浏览器运行其独立界面",
